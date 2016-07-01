@@ -1,0 +1,10 @@
+#!/home/scire/programs/python/aalert/env/bin/python3.5
+# PBR Generated from 'console_scripts'
+
+import sys
+
+from migrate.versioning.migrate_repository import main
+
+
+if __name__ == "__main__":
+    sys.exit(main())

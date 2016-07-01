@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+{% from "_formhelpers.html" import render_field %}
+<form method=post action="register">
+  <d1>
+    {{ render_field(form.username) }}
+    {{ render_field(form.password) }}
+    {{ form.csrf_token }}
+  </d1>
+  <p><input type=submit value=Register></p>
+</form>
+
+
+
+
+ {% endblock %}
+ 

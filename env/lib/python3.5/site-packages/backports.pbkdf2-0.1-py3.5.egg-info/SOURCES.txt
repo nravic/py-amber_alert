@@ -1,0 +1,15 @@
+CHANGES.txt
+LICENSE
+MANIFEST.in
+README.txt
+setup.cfg
+setup.py
+tests.py
+backports/__init__.py
+backports.pbkdf2.egg-info/PKG-INFO
+backports.pbkdf2.egg-info/SOURCES.txt
+backports.pbkdf2.egg-info/dependency_links.txt
+backports.pbkdf2.egg-info/namespace_packages.txt
+backports.pbkdf2.egg-info/top_level.txt
+backports/pbkdf2/__init__.py
+backports/pbkdf2/_pbkdf2.c

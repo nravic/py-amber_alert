@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block content %}
+<title>Search Results</title>
+<table class='table table-striped'>
+  <thead>
+    <tr>
+      <th align='center'>ID</th>
+      <th align='center'>First Name</th>
+      <th align='center'>Last Name</th>
+      <th align='center'>Age</th>
+      <th align='center'>Height</th>
+      <th align='center'>Last Known Location</th>
+      <th align='center'>Missing Since</th>
+    </tr>
+  </thead>
+  <body>
+    <tr>
+      {% for x in results %}
+      <td>{{x['id']}}</td>
+      <td>{{x['firstname']}}</td>
+      <td>{{x['lastname']}}</td>
+      <td>{{x['age']}}</td>
+      <td>{{x['height']}}</td>
+      <td>{{x['last_loc']}}</td>
+      <td>{{x['missing_since']}}</td>
+    </tr>
+      {% endfor %}
+  </body>
+</table>
+
+{% endblock %}
