@@ -2,7 +2,7 @@
 
 Web Amber Alert framework for use in countries lacking alert infrastructure written in Python3 using Flask, Flask-SQLAlchemy and associated abstraction layers.
 
-Please feel free to fork and contribute to the project. Currently, the project is a web app POSTGRES wrapper and has CRUD(Create, Read, Update and Delete) features and a public database view. 
+Please feel free to fork and contribute to the project. Currently, the project is a web app POSTGRES wrapper and has CRUD(Create, Read, Update and Delete) features and a public database view; with administrator only access to the CRUD and base database functions.
 
 py-amber_alert was created with the intention of its usage by both the authoritative body incharge in a country without a formal amber alert system as well as any involved Non-Govermental Organizations (NGOs) to track and aid in search and rescue of missing persons. The Amber Alert system operates on the principle of widening the search net by involving and using the public to ensure a faster response. It was originally designed to be implemented in India, but can be easily extended to any relevant situation or place. 
 
