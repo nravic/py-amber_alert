@@ -14,7 +14,7 @@ src/
 
 #exclude env
 .Python
-env/
+env/*
 build/
 develop-eggs/
 dist/

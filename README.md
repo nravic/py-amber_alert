@@ -4,7 +4,7 @@ Web Amber Alert framework for use in countries lacking alert infrastructure writ
 
 Please feel free to fork and contribute to the project. Currently, the project is a web app POSTGRES wrapper and has CRUD(Create, Read, Update and Delete) features and a public database view; with administrator only access to the CRUD and base database functions.
 
-py-amber_alert was created with the intention of its usage by both the authoritative body incharge in a country without a formal amber alert system as well as any involved Non-Govermental Organizations (NGOs) to track and aid in search and rescue of missing persons. The Amber Alert system operates on the principle of widening the search net by involving and using the public to ensure a faster response. It was originally designed to be implemented in India, but can be easily extended to any relevant situation or place. 
+py-amber_alert was created with the intention of its usage by both the authoritative body in charge in a country without a formal amber alert system as well as any involved Non-Governmental Organizations (NGOs) to track and aid in search and rescue of missing persons. The Amber Alert system operates on the principle of widening the search net by involving and using the public to ensure a faster response. It was originally designed to be implemented in India, but can be easily extended to any relevant situation or place. 
 
 It is my hope that what I've hacked together will help the rising and rampant rates of kidnapping and missing persons cases in the aforementioned places.
 
@@ -30,4 +30,4 @@ Niranjan Ravichandra, @nravic. Again, please feel free to fork it, pull it, push
 If you have any questions, you can send over an email or track me down on IRC, where I go by @nravic and usually trawl around #archlinux, #python, #emacs or #anime on freenode.
 
 ##LICENSE
-Protected under the MIT licence. In short, do what you will with my code; just don't be an ass about it.
+Protected under the MIT license. In short, do what you will with my code; just don't be an ass about it.
