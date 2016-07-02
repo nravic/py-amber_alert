@@ -27,7 +27,7 @@ You can access the functions by heading over to `localhost:5000`. Set up an admi
 
 ##Contributors
 Niranjan Ravichandra, @nravic. Again, please feel free to fork it, pull it, push it and bop it and add to the project. 
-If you have any questions, you can send over an email or track me down on IRC, where I go by @nravic and usually trawl around #archlinux, #python or #anime on freenode.
+If you have any questions, you can send over an email or track me down on IRC, where I go by @nravic and usually trawl around #archlinux, #python, #emacs or #anime on freenode.
 
 ##LICENSE
 Protected under the MIT licence. In short, do what you will with my code; just don't be an ass about it.
